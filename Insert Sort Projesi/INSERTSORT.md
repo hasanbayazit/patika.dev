@@ -1,5 +1,5 @@
 # Insertion Sort Projesi
- **[22,27,16,2,18,6]** -> Insertion Sort
+ **[22,27,16,2,18,6]** -> Insertion Sort Dizisi
 ## 1. Dizinin sort türüne göre aşamaları
 ```
 -  [2,27,16,22,18,6]
