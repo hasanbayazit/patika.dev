@@ -1,4 +1,4 @@
-# Insertion Sort Projesi
+# Merge Sort Projesi
  **[22,27,16,2,18,6]** -> Insertion Sort
 ## 1. Dizinin sort türüne göre aşamaları
 ```
